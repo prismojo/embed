@@ -1,0 +1,104 @@
+{
+  "docs": "https://prismojo.com/embed.md",
+  "rules": "Paste snippets as they are and keep the credit line. Sample clips are not CC BY.",
+  "tools": [
+    {
+      "id": "hotel-lobby-ai",
+      "name": "Hotel Lobby AI",
+      "status": "live",
+      "page": "https://prismojo.com/features/hotel-lobby-ai",
+      "widget": "https://prismojo.com/widget/hotel-lobby-ai",
+      "snippets": {
+        "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai\" title=\"Hotel Lobby AI video generator by Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> by Prismojo</figcaption>\n</figure>",
+        "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai\"\n    title=\"Hotel Lobby AI video generator by Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> by Prismojo\n  </figcaption>\n</figure>",
+        "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+      }
+    },
+    {
+      "id": "ai-zombie",
+      "name": "AI Zombie Love Story",
+      "status": "live",
+      "page": "https://prismojo.com/features/ai-zombie",
+      "widget": "https://prismojo.com/widget/ai-zombie",
+      "snippets": {
+        "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie\" title=\"AI zombie love story video generator by Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> by Prismojo</figcaption>\n</figure>",
+        "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie\"\n    title=\"AI zombie love story video generator by Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> by Prismojo\n  </figcaption>\n</figure>",
+        "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16, silent MP4.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "id": "hotel-lobby-ai-how-it-works",
+      "tool": "hotel-lobby-ai",
+      "title": "How Hotel Lobby AI works",
+      "alt": "Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.",
+      "width": 1200,
+      "height": 675,
+      "png": "https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png",
+      "svg": "https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.svg",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "credit": {
+        "html": "Graphic: <a href=\"https://prismojo.com/features/hotel-lobby-ai\">Prismojo</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"license nofollow\">CC BY 4.0</a>",
+        "markdown": "Graphic: [Prismojo](https://prismojo.com/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+      }
+    },
+    {
+      "id": "hotel-lobby-ai-beat-by-beat",
+      "tool": "hotel-lobby-ai",
+      "title": "The Hotel Lobby trend, beat by beat",
+      "alt": "Timeline of an 8-second Hotel Lobby clip: wide shot 0–2 s, first verse 2–5 s, the answer 5–8 s, all with hard cuts.",
+      "width": 1200,
+      "height": 675,
+      "png": "https://prismojo.com/media-kit/hotel-lobby-ai-beat-by-beat.png",
+      "svg": "https://prismojo.com/media-kit/hotel-lobby-ai-beat-by-beat.svg",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "credit": {
+        "html": "Graphic: <a href=\"https://prismojo.com/features/hotel-lobby-ai\">Prismojo</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"license nofollow\">CC BY 4.0</a>",
+        "markdown": "Graphic: [Prismojo](https://prismojo.com/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+      }
+    },
+    {
+      "id": "ai-zombie-how-it-works",
+      "tool": "ai-zombie",
+      "title": "How the AI zombie love story works",
+      "alt": "Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16, silent MP4.",
+      "width": 1200,
+      "height": 675,
+      "png": "https://prismojo.com/media-kit/ai-zombie-how-it-works.png",
+      "svg": "https://prismojo.com/media-kit/ai-zombie-how-it-works.svg",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "credit": {
+        "html": "Graphic: <a href=\"https://prismojo.com/features/ai-zombie\">Prismojo</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"license nofollow\">CC BY 4.0</a>",
+        "markdown": "Graphic: [Prismojo](https://prismojo.com/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+      }
+    },
+    {
+      "id": "ai-zombie-trend-beats",
+      "tool": "ai-zombie",
+      "title": "The AI zombie trend in five beats",
+      "alt": "Five beats of the AI zombie trend: the present, the infected, the choice, the embrace and the memory, with the 8-second timing.",
+      "width": 1200,
+      "height": 675,
+      "png": "https://prismojo.com/media-kit/ai-zombie-trend-beats.png",
+      "svg": "https://prismojo.com/media-kit/ai-zombie-trend-beats.svg",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "credit": {
+        "html": "Graphic: <a href=\"https://prismojo.com/features/ai-zombie\">Prismojo</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"license nofollow\">CC BY 4.0</a>",
+        "markdown": "Graphic: [Prismojo](https://prismojo.com/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+      }
+    }
+  ]
+}
