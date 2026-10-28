@@ -12,6 +12,80 @@
         "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai\" title=\"Hotel Lobby AI video generator by Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> by Prismojo</figcaption>\n</figure>",
         "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai\"\n    title=\"Hotel Lobby AI video generator by Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> by Prismojo\n  </figcaption>\n</figure>",
         "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+      },
+      "languages": {
+        "en": {
+          "page": "https://prismojo.com/features/hotel-lobby-ai",
+          "widget": "https://prismojo.com/widget/hotel-lobby-ai",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai\" title=\"Hotel Lobby AI video generator by Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> by Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai\"\n    title=\"Hotel Lobby AI video generator by Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> by Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "es": {
+          "page": "https://prismojo.com/es/features/hotel-lobby-ai",
+          "widget": "https://prismojo.com/widget/hotel-lobby-ai?lang=es",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=es\" title=\"Generador de vídeo Hotel Lobby AI de Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/es/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> de Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=es\"\n    title=\"Generador de vídeo Hotel Lobby AI de Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/es/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> de Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/es/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "pt": {
+          "page": "https://prismojo.com/pt/features/hotel-lobby-ai",
+          "widget": "https://prismojo.com/widget/hotel-lobby-ai?lang=pt",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=pt\" title=\"Gerador de vídeo Hotel Lobby AI da Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/pt/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> da Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=pt\"\n    title=\"Gerador de vídeo Hotel Lobby AI da Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/pt/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> da Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/pt/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "fr": {
+          "page": "https://prismojo.com/fr/features/hotel-lobby-ai",
+          "widget": "https://prismojo.com/widget/hotel-lobby-ai?lang=fr",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=fr\" title=\"Générateur de vidéo Hotel Lobby AI par Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/fr/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> par Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=fr\"\n    title=\"Générateur de vidéo Hotel Lobby AI par Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/fr/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> par Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/fr/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "de": {
+          "page": "https://prismojo.com/de/features/hotel-lobby-ai",
+          "widget": "https://prismojo.com/widget/hotel-lobby-ai?lang=de",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=de\" title=\"Hotel Lobby AI Videogenerator von Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/de/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> von Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=de\"\n    title=\"Hotel Lobby AI Videogenerator von Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/de/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> von Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/de/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "fi": {
+          "page": "https://prismojo.com/fi/features/hotel-lobby-ai",
+          "widget": "https://prismojo.com/widget/hotel-lobby-ai?lang=fi",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=fi\" title=\"Hotel Lobby AI -videogeneraattori, Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/fi/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> – Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=fi\"\n    title=\"Hotel Lobby AI -videogeneraattori, Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/fi/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> – Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/fi/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "ms": {
+          "page": "https://prismojo.com/ms/features/hotel-lobby-ai",
+          "widget": "https://prismojo.com/widget/hotel-lobby-ai?lang=ms",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=ms\" title=\"Penjana video Hotel Lobby AI oleh Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/ms/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> oleh Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=ms\"\n    title=\"Penjana video Hotel Lobby AI oleh Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/ms/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> oleh Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/ms/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "th": {
+          "page": "https://prismojo.com/th/features/hotel-lobby-ai",
+          "widget": "https://prismojo.com/widget/hotel-lobby-ai?lang=th",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=th\" title=\"ตัวสร้างวิดีโอ Hotel Lobby AI โดย Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/th/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> โดย Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/hotel-lobby-ai?lang=th\"\n    title=\"ตัวสร้างวิดีโอ Hotel Lobby AI โดย Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/th/features/hotel-lobby-ai\" rel=\"nofollow\">Hotel Lobby AI</a> โดย Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 and photo 2, one person each, become the two performers in the orange booth; 9:16, 1080p, 5 or 8 seconds, with the Hotel Lobby sound.](https://prismojo.com/media-kit/hotel-lobby-ai-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/th/features/hotel-lobby-ai), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        }
       }
     },
     {
@@ -23,7 +97,81 @@
       "snippets": {
         "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie\" title=\"AI zombie love story video generator by Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> by Prismojo</figcaption>\n</figure>",
         "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie\"\n    title=\"AI zombie love story video generator by Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> by Prismojo\n  </figcaption>\n</figure>",
-        "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16, silent MP4.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+        "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+      },
+      "languages": {
+        "en": {
+          "page": "https://prismojo.com/features/ai-zombie",
+          "widget": "https://prismojo.com/widget/ai-zombie",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie\" title=\"AI zombie love story video generator by Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> by Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie\"\n    title=\"AI zombie love story video generator by Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> by Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "es": {
+          "page": "https://prismojo.com/es/features/ai-zombie",
+          "widget": "https://prismojo.com/widget/ai-zombie?lang=es",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie?lang=es\" title=\"Generador de vídeo de historia de amor zombi con IA de Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/es/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> de Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie?lang=es\"\n    title=\"Generador de vídeo de historia de amor zombi con IA de Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/es/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> de Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/es/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "pt": {
+          "page": "https://prismojo.com/pt/features/ai-zombie",
+          "widget": "https://prismojo.com/widget/ai-zombie?lang=pt",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie?lang=pt\" title=\"Gerador de vídeo de história de amor zumbi com IA da Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/pt/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> da Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie?lang=pt\"\n    title=\"Gerador de vídeo de história de amor zumbi com IA da Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/pt/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> da Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/pt/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "fr": {
+          "page": "https://prismojo.com/fr/features/ai-zombie",
+          "widget": "https://prismojo.com/widget/ai-zombie?lang=fr",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie?lang=fr\" title=\"Générateur d'histoire d'amour zombie par IA, par Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/fr/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> par Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie?lang=fr\"\n    title=\"Générateur d'histoire d'amour zombie par IA, par Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/fr/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> par Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/fr/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "de": {
+          "page": "https://prismojo.com/de/features/ai-zombie",
+          "widget": "https://prismojo.com/widget/ai-zombie?lang=de",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie?lang=de\" title=\"KI-Zombie-Liebesgeschichten-Generator von Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/de/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> von Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie?lang=de\"\n    title=\"KI-Zombie-Liebesgeschichten-Generator von Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/de/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> von Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/de/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "fi": {
+          "page": "https://prismojo.com/fi/features/ai-zombie",
+          "widget": "https://prismojo.com/widget/ai-zombie?lang=fi",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie?lang=fi\" title=\"Tekoälyn zombirakkaustarinageneraattori, Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/fi/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> – Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie?lang=fi\"\n    title=\"Tekoälyn zombirakkaustarinageneraattori, Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/fi/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> – Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/fi/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "ms": {
+          "page": "https://prismojo.com/ms/features/ai-zombie",
+          "widget": "https://prismojo.com/widget/ai-zombie?lang=ms",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie?lang=ms\" title=\"Penjana kisah cinta zombi AI oleh Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/ms/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> oleh Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie?lang=ms\"\n    title=\"Penjana kisah cinta zombi AI oleh Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/ms/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> oleh Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/ms/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        },
+        "th": {
+          "page": "https://prismojo.com/th/features/ai-zombie",
+          "widget": "https://prismojo.com/widget/ai-zombie?lang=th",
+          "snippets": {
+            "html": "<figure style=\"max-width:360px;margin:24px auto\">\n  <iframe src=\"https://prismojo.com/widget/ai-zombie?lang=th\" title=\"ตัวสร้างเรื่องรักซอมบี้ AI โดย Prismojo\" loading=\"lazy\" style=\"display:block;width:100%;aspect-ratio:9/16;border:0;border-radius:16px\"></iframe>\n  <figcaption style=\"margin-top:8px;font-size:14px;text-align:center\"><a href=\"https://prismojo.com/th/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> โดย Prismojo</figcaption>\n</figure>",
+            "jsx": "<figure style={{ maxWidth: 360, margin: \"24px auto\" }}>\n  <iframe\n    src=\"https://prismojo.com/widget/ai-zombie?lang=th\"\n    title=\"ตัวสร้างเรื่องรักซอมบี้ AI โดย Prismojo\"\n    loading=\"lazy\"\n    style={{ display: \"block\", width: \"100%\", aspectRatio: \"9 / 16\", border: 0, borderRadius: 16 }}\n  />\n  <figcaption style={{ marginTop: 8, fontSize: 14, textAlign: \"center\" }}>\n    <a href=\"https://prismojo.com/th/features/ai-zombie\" rel=\"nofollow\">AI Zombie Love Story</a> โดย Prismojo\n  </figcaption>\n</figure>",
+            "markdown": "![Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.](https://prismojo.com/media-kit/ai-zombie-how-it-works.png)\n\nGraphic: [Prismojo](https://prismojo.com/th/features/ai-zombie), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+          }
+        }
       }
     }
   ],
@@ -68,7 +216,7 @@
       "id": "ai-zombie-how-it-works",
       "tool": "ai-zombie",
       "title": "How the AI zombie love story works",
-      "alt": "Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16, silent MP4.",
+      "alt": "Diagram: photo 1 becomes the zombie, photo 2 is the survivor; a hard match cut on the embrace jumps to a golden-hour memory; 9:16 MP4 with the original trend sound.",
       "width": 1200,
       "height": 675,
       "png": "https://prismojo.com/media-kit/ai-zombie-how-it-works.png",

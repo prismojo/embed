@@ -41,6 +41,21 @@ import { PrismojoWidget } from "./PrismojoWidget";
 
 Copy [`react/PrismojoWidget.jsx`](react/PrismojoWidget.jsx) into your project. No dependencies.
 
+## Other languages
+
+Add `?lang=xx` to a widget URL and the card speaks that language; its links open that language's page. In React: `<PrismojoWidget tool="hotel-lobby-ai" lang="es" />`. Ready-made snippets for every language are in [`widgets.json`](widgets.json) (`languages`) and on https://prismojo.com/embed in each language.
+
+| Language | `lang` | Example widget URL |
+| --- | --- | --- |
+| English | en | https://prismojo.com/widget/hotel-lobby-ai |
+| Español | es | https://prismojo.com/widget/hotel-lobby-ai?lang=es |
+| Português | pt | https://prismojo.com/widget/hotel-lobby-ai?lang=pt |
+| Français | fr | https://prismojo.com/widget/hotel-lobby-ai?lang=fr |
+| Deutsch | de | https://prismojo.com/widget/hotel-lobby-ai?lang=de |
+| Suomi | fi | https://prismojo.com/widget/hotel-lobby-ai?lang=fi |
+| Bahasa Melayu | ms | https://prismojo.com/widget/hotel-lobby-ai?lang=ms |
+| ไทย | th | https://prismojo.com/widget/hotel-lobby-ai?lang=th |
+
 ## Graphics (CC BY 4.0)
 
 Our own diagrams, hosted on prismojo.com. Use them anywhere with the credit line under each one.
